@@ -1,7 +1,11 @@
 // En estas primeras 6 preguntas, reemplaza `null` por la respuesta
 
 // Crea una variable "string", puede contener lo que quieras:
+<<<<<<< HEAD
 const nuevaString = 'mañana';
+=======
+const nuevaString = 'paula';
+>>>>>>> a1706172cf4aa71f9fc93f0706022f681f09f4bf
 
 // Crea una variable numerica, puede ser cualquier número:
 const nuevoNum = null;
